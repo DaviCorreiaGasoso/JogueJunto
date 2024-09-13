@@ -1,0 +1,17 @@
+.infobaixar{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.bnt {
+    background-color: rgb(168, 2, 2);
+    color:rgb(255, 255, 255);
+    border: rgb(168, 2, 2);
+    padding: 20px, 30px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 70px;
+    transition: background-color 0.3s, color 0.3s;
+    top: 6px;
+}
